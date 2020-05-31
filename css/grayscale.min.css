@@ -106,24 +106,24 @@
   background-size: cover
 }
 
-.detail {
+.details {
   position: relative;
   width: 100%;
   height: auto;
-  min-height: 35rem;
-  padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, .3) 0, rgba(22, 22, 22, .7) 75%, #161616 100%);
+  /* background: linear-gradient(to bottom, rgba(22, 22, 22, .3) 0, rgba(22, 22, 22, .7) 75%, #161616 100%); */
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  color: grey;
+  color: 0xff000030;
   font-family: 'Varela Round';
 }
-.details-page{
+
+.details-page {
   padding: 2rem;
+  background-color: #8CD2BD;
 }
 
-.download-btn:hover{
+.download-btn:hover {
   color: #4f837f;
 }
 
