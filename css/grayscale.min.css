@@ -93,6 +93,7 @@
   }
 }
 
+
 .bd-masthead {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -107,6 +108,7 @@
   background-origin: padding-box;
   background-clip: border-box;
 }
+
 
 .masthead {
   position: relative;
@@ -125,7 +127,9 @@
   position: relative;
   width: 100%;
   height: auto;
+
   /* background: linear-gradient(to bottom, rgb(247, 245, 251) 0, rgb(255, 255, 255) 75%, #f7f5fb 100%); */
+
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -135,11 +139,14 @@
 
 .details-page {
   padding: 2rem;
+
   background-color: #f7f5fb;
 }
 
 .download-btn:hover {
   color: #f7f5fb;
+
+
 }
 
 .masthead h1 {
@@ -311,13 +318,17 @@
 }
 
 .contact-section .social a:active {
+
   color: #f7f5fb
+  
+
 }
 
 body {
   font-family: Nunito;
   letter-spacing: .0625em
 }
+
 
 p{
   line-height: 2;
@@ -348,6 +359,7 @@ footer {
   padding: 5rem 0
 }
 
+
 .compe{
   font-family: 'Varela Round';
   /* font-size:182%; */
@@ -357,3 +369,4 @@ footer {
   -webkit-text-fill-color: #0xff000030;
   -webkit-background-clip: text
 }
+
